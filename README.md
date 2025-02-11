@@ -15,14 +15,12 @@ Click on the template of your choice, and create your valentine pages under 1 mi
 
 
 # Demo
-Github Pages : https://saurabhnemade.github.io/will-you-be-my-valentine/
+Github Pages : [(https://hesreddy04.github.io/bemyvalentine/)
 
 
 # Description
 This is a fun project for valentines day to bring smile on face of your special person!!
 
-This project is inspired from
-https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 & https://www.tiktok.com/@mewtru/video/7331131143112166698
 
 # How to start
 ```
@@ -41,4 +39,4 @@ pnpm run dev
 pnpm run deploy
 ```
 
-Made with ❤️ in Berlin!
+
